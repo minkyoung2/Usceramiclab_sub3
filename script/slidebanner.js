@@ -14,5 +14,6 @@
         el: '.swiper-pagination',
         clickable: true,
       },
+	effect: "fade",
     });
 });
